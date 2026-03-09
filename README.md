@@ -24,5 +24,5 @@ rails server
 ```
 
 ## Future Plans
-- Add more features like user roles and permissions
-- Implement API endpoints for a mobile app integration
+- Add unit tests for existing features
+- Implement CI/CD pipeline for automated deployments
